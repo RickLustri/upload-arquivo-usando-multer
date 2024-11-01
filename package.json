@@ -1,0 +1,25 @@
+{
+  "name": "upload-arquivo-usando-multer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickLustri/upload-arquivo-usando-multer.git"
+  },
+  "author": "RickLustri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickLustri/upload-arquivo-usando-multer/issues"
+  },
+  "homepage": "https://github.com/RickLustri/upload-arquivo-usando-multer#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7"
+  }
+}
